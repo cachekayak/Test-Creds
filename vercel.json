@@ -3,6 +3,10 @@
     {
       "source": "/",
       "destination": "/testcreds.json"
+    },
+    {
+      "source": "/txstorage",
+      "destination": "/txstorage.json"
     }
   ]
 }
